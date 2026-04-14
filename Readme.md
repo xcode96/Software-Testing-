@@ -1,7 +1,7 @@
 Based on your question and the Fortify Audit Workbench report you shared, I need to clarify a few important points:
 
 
-##  Soure code is still tesing processing
+##  Soure code is still testing processing
 ## 🔍 Clarification: Your Report Shows **Outstanding Issues**, Not Fixed Bugs
 
 The document you pasted is a **PCI DSS 4.0.1 compliance assessment report** for project `IT-Security-Policy-main` that shows **current vulnerabilities that have NOT been fixed**. This is a snapshot of security issues detected by Fortify SCA (version 26.1.0.0059), not a list of resolved bugs.
